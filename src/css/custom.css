@@ -1,0 +1,38 @@
+/**
+ * Todo el CSS incluido aquí será global (aplica en todo el sitio).
+ * La plantilla "classic" de Docusaurus ya viene con un framework de estilos llamado Infima,
+ * que está optimizado para sitios web con mucho contenido (como documentación).
+ */
+
+/* 🎨 Aquí puedes sobrescribir (cambiar) las variables de color por defecto de Infima */
+:root {
+  /* Color principal del sitio en modo claro */
+  --ifm-color-primary: #2e8555; /* Verde principal */
+  --ifm-color-primary-dark: #29784c; /* Verde un poco más oscuro */
+  --ifm-color-primary-darker: #277148; /* Más oscuro */
+  --ifm-color-primary-darkest: #205d3b; /* Aún más oscuro */
+  --ifm-color-primary-light: #33925d; /* Verde un poco más claro */
+  --ifm-color-primary-lighter: #359962; /* Más claro */
+  --ifm-color-primary-lightest: #3cad6e; /* Aún más claro */
+
+  /* Tamaño del texto para el código (bloques o líneas de código) */
+  --ifm-code-font-size: 95%;
+
+  /* Fondo de una línea destacada dentro de un bloque de código */
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1); /* Color gris clarito */
+}
+
+/* 🌙 Estos estilos se aplican cuando el sitio está en modo oscuro */
+[data-theme='dark'] {
+  /* Cambia la paleta de colores para que se vea mejor con fondo oscuro */
+  --ifm-color-primary: #25c2a0; /* Verde agua */
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+
+  /* Fondo de una línea de código destacada, más oscuro en este modo */
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
