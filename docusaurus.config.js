@@ -74,46 +74,47 @@ const config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Guía',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Comenzar el tutorial',
               to: '/docs/intro',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Comunidad',
           items: [
             {
-              label: 'Stack Overflow',
+              label: 'Preguntas y respuestas',
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {
-              label: 'Discord',
+              label: 'Chat en Discord',
               href: 'https://discordapp.com/invite/docusaurus',
             },
             {
-              label: 'X',
+              label: 'Noticias en X',
               href: 'https://x.com/docusaurus',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Más contenido',
           items: [
             {
-              label: 'Blog',
+              label: 'Artículos del blog',
               to: '/blog',
             },
             {
-              label: 'GitHub',
+              label: 'Repositorio en GitHub',
               href: 'https://github.com/facebook/docusaurus',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright:
+        `Copyright © ${new Date().getFullYear()} Manual del Inspector. Hecho con Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

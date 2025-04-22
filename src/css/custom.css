@@ -36,3 +36,16 @@
   /* Fondo de una línea de código destacada, más oscuro en este modo */
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.footer {
+  background-color: #181818;
+  color: #ffffff;
+}
+
+.footer a {
+  color: #cccccc;
+}
+
+.footer a:hover {
+  color: #ffffff;
+}
