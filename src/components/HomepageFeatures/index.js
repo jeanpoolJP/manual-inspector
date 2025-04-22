@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Aprende a inspeccionar páginas',
+    Svg: require('@site/static/img/inspeccionar.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Este manual te enseña paso a paso cómo usar la herramienta de inspección en tu navegador para explorar y entender cualquier página web.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Edita el contenido en tiempo real',
+    Svg: require('@site/static/img/editar.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Aprende a modificar textos, colores y estilos directamente desde el navegador. ¡Perfecto para pruebas y aprendizaje rápido!
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Explora HTML y CSS fácilmente',
+    Svg: require('@site/static/img/explorar.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Conoce cómo está estructurada una página web viendo su HTML y CSS. Ideal para quienes están empezando en el desarrollo web.
       </>
     ),
   },
