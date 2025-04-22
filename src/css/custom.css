@@ -7,13 +7,13 @@
 /* 🎨 Aquí puedes sobrescribir (cambiar) las variables de color por defecto de Infima */
 :root {
   /* Color principal del sitio en modo claro */
-  --ifm-color-primary: #2e8555; /* Verde principal */
-  --ifm-color-primary-dark: #29784c; /* Verde un poco más oscuro */
-  --ifm-color-primary-darker: #277148; /* Más oscuro */
-  --ifm-color-primary-darkest: #205d3b; /* Aún más oscuro */
-  --ifm-color-primary-light: #33925d; /* Verde un poco más claro */
-  --ifm-color-primary-lighter: #359962; /* Más claro */
-  --ifm-color-primary-lightest: #3cad6e; /* Aún más claro */
+  --ifm-color-primary: #0d47a1; /* Azul oscuro principal */
+  --ifm-color-primary-dark: #0b3993; /* Azul más oscuro */
+  --ifm-color-primary-darker: #093370; /* Más oscuro */
+  --ifm-color-primary-darkest: #07204d; /* Aún más oscuro */
+  --ifm-color-primary-light: #1976d2; /* Azul brillante */
+  --ifm-color-primary-lighter: #1e88e5; /* Más claro */
+  --ifm-color-primary-lightest: #42a5f5; /* Aún más claro */
 
   /* Tamaño del texto para el código (bloques o líneas de código) */
   --ifm-code-font-size: 95%;
@@ -25,13 +25,13 @@
 /* 🌙 Estos estilos se aplican cuando el sitio está en modo oscuro */
 [data-theme='dark'] {
   /* Cambia la paleta de colores para que se vea mejor con fondo oscuro */
-  --ifm-color-primary: #25c2a0; /* Verde agua */
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #2196f3; /* Azul brillante */
+  --ifm-color-primary-dark: #1e88e5;
+  --ifm-color-primary-darker: #1976d2;
+  --ifm-color-primary-darkest: #1565c0;
+  --ifm-color-primary-light: #42a5f5;
+  --ifm-color-primary-lighter: #64b5f6;
+  --ifm-color-primary-lightest: #90caf9;
 
   /* Fondo de una línea de código destacada, más oscuro en este modo */
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
