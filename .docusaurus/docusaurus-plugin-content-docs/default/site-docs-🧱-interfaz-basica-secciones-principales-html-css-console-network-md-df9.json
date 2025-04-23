@@ -1,0 +1,24 @@
+{
+  "id": "🧱 Interfaz Básica/Secciones principales HTML CSS Console Network",
+  "title": "Secciones Principales: HTML, CSS, Console, Network",
+  "description": "El Inspector de Elementos se organiza en varias secciones que te permiten explorar y trabajar con diferentes aspectos de una página web. Las más utilizadas son: HTML, CSS, Console y Network. A continuación, te explicamos para qué sirve cada una.",
+  "source": "@site/docs/🧱 Interfaz Básica/Secciones principales HTML CSS Console Network.md",
+  "sourceDirName": "🧱 Interfaz Básica",
+  "slug": "/🧱 Interfaz Básica/Secciones principales HTML CSS Console Network",
+  "permalink": "/docusaurus/docs/🧱 Interfaz Básica/Secciones principales HTML CSS Console Network",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/🧱 Interfaz Básica/Secciones principales HTML CSS Console Network.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Atajos y Menú",
+    "permalink": "/docusaurus/docs/🧭 Acceso al Inspector/- Atajos y menú"
+  },
+  "next": {
+    "title": "Función de Cada Sección",
+    "permalink": "/docusaurus/docs/🧱 Interfaz Básica/Función de cada sección"
+  }
+}

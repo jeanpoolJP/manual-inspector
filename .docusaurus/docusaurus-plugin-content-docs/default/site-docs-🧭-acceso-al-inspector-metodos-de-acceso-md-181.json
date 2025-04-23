@@ -1,0 +1,24 @@
+{
+  "id": "🧭 Acceso al Inspector/- Métodos de acceso",
+  "title": "Métodos de Acceso",
+  "description": "El Inspector de Elementos está integrado en todos los navegadores modernos, y puedes abrirlo fácilmente usando distintos métodos. Aquí te mostramos las formas más comunes para acceder a esta herramienta poderosa.",
+  "source": "@site/docs/🧭 Acceso al Inspector/- Métodos de acceso.md",
+  "sourceDirName": "🧭 Acceso al Inspector",
+  "slug": "/🧭 Acceso al Inspector/- Métodos de acceso",
+  "permalink": "/docusaurus/docs/🧭 Acceso al Inspector/- Métodos de acceso",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/🧭 Acceso al Inspector/- Métodos de acceso.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Beneficios para Desarrolladores",
+    "permalink": "/docusaurus/docs/🔍 Introducción/- Beneficios para desarrolladores"
+  },
+  "next": {
+    "title": "Atajos y Menú",
+    "permalink": "/docusaurus/docs/🧭 Acceso al Inspector/- Atajos y menú"
+  }
+}

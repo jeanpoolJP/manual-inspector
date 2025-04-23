@@ -1,0 +1,24 @@
+{
+  "id": "✅ Consejos y Buenas Prácticas/Uso eficiente del Inspector",
+  "title": "Uso Eficiente del Inspector",
+  "description": "El Inspector de Elementos es una herramienta poderosa, pero su uso adecuado puede hacer una gran diferencia en el flujo de trabajo diario de un desarrollador. En esta sección, exploraremos cómo utilizar el Inspector de manera más eficiente para mejorar tu productividad y facilitar el proceso de desarrollo y depuración.",
+  "source": "@site/docs/✅ Consejos y Buenas Prácticas/Uso eficiente del Inspector.md",
+  "sourceDirName": "✅ Consejos y Buenas Prácticas",
+  "slug": "/✅ Consejos y Buenas Prácticas/Uso eficiente del Inspector",
+  "permalink": "/docusaurus/docs/✅ Consejos y Buenas Prácticas/Uso eficiente del Inspector",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/✅ Consejos y Buenas Prácticas/Uso eficiente del Inspector.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Modificación de Datos Web",
+    "permalink": "/docusaurus/docs/🧰 Herramientas Avanzadas/Modificación de datos web"
+  },
+  "next": {
+    "title": "Herramientas y Trucos Útiles",
+    "permalink": "/docusaurus/docs/✅ Consejos y Buenas Prácticas/Herramientas y trucos útiles"
+  }
+}

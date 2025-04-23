@@ -1,0 +1,24 @@
+{
+  "id": "🧱 Interfaz Básica/Función de cada sección",
+  "title": "Función de Cada Sección",
+  "description": "Cada sección del Inspector de Elementos cumple una función específica que te permite analizar, editar o depurar distintos aspectos de una página web. A continuación, te explico la utilidad principal de las secciones más importantes:",
+  "source": "@site/docs/🧱 Interfaz Básica/Función de cada sección.md",
+  "sourceDirName": "🧱 Interfaz Básica",
+  "slug": "/🧱 Interfaz Básica/Función de cada sección",
+  "permalink": "/docusaurus/docs/🧱 Interfaz Básica/Función de cada sección",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/🧱 Interfaz Básica/Función de cada sección.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Secciones Principales: HTML, CSS, Console, Network",
+    "permalink": "/docusaurus/docs/🧱 Interfaz Básica/Secciones principales HTML CSS Console Network"
+  },
+  "next": {
+    "title": "Selección de Elementos",
+    "permalink": "/docusaurus/docs/🖱️ Inspección de Elementos/Selección de elementos"
+  }
+}

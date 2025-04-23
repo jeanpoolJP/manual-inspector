@@ -1,0 +1,24 @@
+{
+  "id": "✅ Consejos y Buenas Prácticas/Herramientas y trucos útiles",
+  "title": "Herramientas y Trucos Útiles",
+  "description": "El Inspector de Elementos es una herramienta poderosa que, además de ser útil para depuración y análisis, también ofrece una serie de trucos y herramientas que pueden mejorar tu flujo de trabajo como desarrollador. A continuación, se detallan algunas de las herramientas y trucos más útiles para optimizar el uso del Inspector de Elementos.",
+  "source": "@site/docs/✅ Consejos y Buenas Prácticas/Herramientas y trucos útiles.md",
+  "sourceDirName": "✅ Consejos y Buenas Prácticas",
+  "slug": "/✅ Consejos y Buenas Prácticas/Herramientas y trucos útiles",
+  "permalink": "/docusaurus/docs/✅ Consejos y Buenas Prácticas/Herramientas y trucos útiles",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/✅ Consejos y Buenas Prácticas/Herramientas y trucos útiles.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Uso Eficiente del Inspector",
+    "permalink": "/docusaurus/docs/✅ Consejos y Buenas Prácticas/Uso eficiente del Inspector"
+  },
+  "next": {
+    "title": "Documentación de Navegadores",
+    "permalink": "/docusaurus/docs/📚 Recursos Adicionales/Documentación de navegadores"
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docusaurus/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docusaurus/docs",
+          "mainDocId": "🔍 Introducción/- Qué es el Inspector",
+          "docs": [
+            {
+              "id": "⚡ Rendimiento/Herramientas de rendimiento",
+              "path": "/docusaurus/docs/⚡ Rendimiento/Herramientas de rendimiento",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "⚡ Rendimiento/Optimización de carga",
+              "path": "/docusaurus/docs/⚡ Rendimiento/Optimización de carga",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "✅ Consejos y Buenas Prácticas/Herramientas y trucos útiles",
+              "path": "/docusaurus/docs/✅ Consejos y Buenas Prácticas/Herramientas y trucos útiles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "✅ Consejos y Buenas Prácticas/Uso eficiente del Inspector",
+              "path": "/docusaurus/docs/✅ Consejos y Buenas Prácticas/Uso eficiente del Inspector",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "🌐 Análisis de Red/Revisión de imágenes y scripts",
+              "path": "/docusaurus/docs/🌐 Análisis de Red/Revisión de imágenes y scripts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "🌐 Análisis de Red/Solicitudes de red",
+              "path": "/docusaurus/docs/🌐 Análisis de Red/Solicitudes de red",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "🎨 Edición de CSS/Modificar en tiempo real",
+              "path": "/docusaurus/docs/🎨 Edición de CSS/Modificar en tiempo real",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "🎨 Edición de CSS/Ver y editar estilos",
+              "path": "/docusaurus/docs/🎨 Edición de CSS/Ver y editar estilos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "💻 Consola y Depuración/Depuración con breakpoints",
+              "path": "/docusaurus/docs/💻 Consola y Depuración/Depuración con breakpoints",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "💻 Consola y Depuración/Errores y mensajes de JavaScript",
+              "path": "/docusaurus/docs/💻 Consola y Depuración/Errores y mensajes de JavaScript",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "📚 Recursos Adicionales/Documentación de navegadores",
+              "path": "/docusaurus/docs/📚 Recursos Adicionales/Documentación de navegadores",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "📚 Recursos Adicionales/Tutoriales y guías",
+              "path": "/docusaurus/docs/📚 Recursos Adicionales/Tutoriales y guías",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "🔍 Introducción/- Beneficios para desarrolladores",
+              "path": "/docusaurus/docs/🔍 Introducción/- Beneficios para desarrolladores",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "🔍 Introducción/- Qué es el Inspector",
+              "path": "/docusaurus/docs/🔍 Introducción/- Qué es el Inspector",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "🖱️ Inspección de Elementos/Interacción con el DOM",
+              "path": "/docusaurus/docs/🖱️ Inspección de Elementos/Interacción con el DOM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "🖱️ Inspección de Elementos/Modificación del HTML",
+              "path": "/docusaurus/docs/🖱️ Inspección de Elementos/Modificación del HTML",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "🖱️ Inspección de Elementos/Selección de elementos",
+              "path": "/docusaurus/docs/🖱️ Inspección de Elementos/Selección de elementos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "🧭 Acceso al Inspector/- Atajos y menú",
+              "path": "/docusaurus/docs/🧭 Acceso al Inspector/- Atajos y menú",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "🧭 Acceso al Inspector/- Métodos de acceso",
+              "path": "/docusaurus/docs/🧭 Acceso al Inspector/- Métodos de acceso",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "🧰 Herramientas Avanzadas/Inspección de cookies y almacenamiento",
+              "path": "/docusaurus/docs/🧰 Herramientas Avanzadas/Inspección de cookies y almacenamiento",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "🧰 Herramientas Avanzadas/Modificación de datos web",
+              "path": "/docusaurus/docs/🧰 Herramientas Avanzadas/Modificación de datos web",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "🧱 Interfaz Básica/Función de cada sección",
+              "path": "/docusaurus/docs/🧱 Interfaz Básica/Función de cada sección",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "🧱 Interfaz Básica/Secciones principales HTML CSS Console Network",
+              "path": "/docusaurus/docs/🧱 Interfaz Básica/Secciones principales HTML CSS Console Network",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docusaurus/docs/intro"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/docusaurus/docs/tutorial-basics/congratulations"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/docusaurus/docs/tutorial-basics/create-a-blog-post"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/docusaurus/docs/tutorial-basics/create-a-document"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/docusaurus/docs/tutorial-basics/create-a-page"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/docusaurus/docs/tutorial-basics/deploy-your-site"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/docusaurus/docs/tutorial-basics/markdown-features"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/docusaurus/docs/tutorial-extras/manage-docs-versions"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/docusaurus/docs/tutorial-extras/translate-your-site"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docusaurus/docs/🔍 Introducción/- Qué es el Inspector",
+                "label": "🔍 Introducción/- Qué es el Inspector"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

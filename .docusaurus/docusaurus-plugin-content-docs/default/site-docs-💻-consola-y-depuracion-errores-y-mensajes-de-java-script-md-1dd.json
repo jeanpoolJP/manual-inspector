@@ -1,0 +1,24 @@
+{
+  "id": "💻 Consola y Depuración/Errores y mensajes de JavaScript",
+  "title": "Errores y Mensajes de JavaScript",
+  "description": "El Inspector de Elementos, a través de la pestaña Console, es una herramienta clave para depurar y resolver errores en el código JavaScript de una página web. Los mensajes de error que se muestran te permiten identificar problemas en el código y te dan pistas para solucionarlos. A continuación, te explicamos cómo interpretar y manejar los errores de JavaScript en la consola.",
+  "source": "@site/docs/💻 Consola y Depuración/Errores y mensajes de JavaScript.md",
+  "sourceDirName": "💻 Consola y Depuración",
+  "slug": "/💻 Consola y Depuración/Errores y mensajes de JavaScript",
+  "permalink": "/docusaurus/docs/💻 Consola y Depuración/Errores y mensajes de JavaScript",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/💻 Consola y Depuración/Errores y mensajes de JavaScript.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Modificar en Tiempo Real",
+    "permalink": "/docusaurus/docs/🎨 Edición de CSS/Modificar en tiempo real"
+  },
+  "next": {
+    "title": "Depuración con Breakpoints",
+    "permalink": "/docusaurus/docs/💻 Consola y Depuración/Depuración con breakpoints"
+  }
+}

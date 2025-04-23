@@ -1,0 +1,24 @@
+{
+  "id": "📚 Recursos Adicionales/Documentación de navegadores",
+  "title": "Documentación de Navegadores",
+  "description": "Los navegadores web son una herramienta esencial para el desarrollo y pruebas de sitios web. La documentación de los navegadores proporciona información detallada sobre cómo funcionan, cómo interactúan con las páginas web, y cómo se pueden optimizar para mejorar la experiencia del usuario. Esta sección proporciona recursos clave para comprender y trabajar con los navegadores más utilizados en el desarrollo web.",
+  "source": "@site/docs/📚 Recursos Adicionales/Documentación de navegadores.md",
+  "sourceDirName": "📚 Recursos Adicionales",
+  "slug": "/📚 Recursos Adicionales/Documentación de navegadores",
+  "permalink": "/docusaurus/docs/📚 Recursos Adicionales/Documentación de navegadores",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/📚 Recursos Adicionales/Documentación de navegadores.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Herramientas y Trucos Útiles",
+    "permalink": "/docusaurus/docs/✅ Consejos y Buenas Prácticas/Herramientas y trucos útiles"
+  },
+  "next": {
+    "title": "Tutoriales y Guías",
+    "permalink": "/docusaurus/docs/📚 Recursos Adicionales/Tutoriales y guías"
+  }
+}

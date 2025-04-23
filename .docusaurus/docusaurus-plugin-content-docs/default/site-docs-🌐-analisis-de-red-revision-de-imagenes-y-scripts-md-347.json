@@ -1,0 +1,24 @@
+{
+  "id": "🌐 Análisis de Red/Revisión de imágenes y scripts",
+  "title": "Revisión de Imágenes y Scripts",
+  "description": "Cuando estás desarrollando o depurando una página web, es crucial entender cómo se cargan los recursos como imágenes y scripts. La pestaña Network del Inspector de Elementos te proporciona herramientas poderosas para revisar cómo se cargan estos recursos, verificar su rendimiento y solucionar problemas relacionados con ellos.",
+  "source": "@site/docs/🌐 Análisis de Red/Revisión de imágenes y scripts.md",
+  "sourceDirName": "🌐 Análisis de Red",
+  "slug": "/🌐 Análisis de Red/Revisión de imágenes y scripts",
+  "permalink": "/docusaurus/docs/🌐 Análisis de Red/Revisión de imágenes y scripts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/🌐 Análisis de Red/Revisión de imágenes y scripts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Solicitudes de Red",
+    "permalink": "/docusaurus/docs/🌐 Análisis de Red/Solicitudes de red"
+  },
+  "next": {
+    "title": "Herramientas de Rendimiento",
+    "permalink": "/docusaurus/docs/⚡ Rendimiento/Herramientas de rendimiento"
+  }
+}

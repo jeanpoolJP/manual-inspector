@@ -1,0 +1,24 @@
+{
+  "id": "⚡ Rendimiento/Herramientas de rendimiento",
+  "title": "Herramientas de Rendimiento",
+  "description": "La optimización del rendimiento de una página web es crucial para mejorar la experiencia del usuario y asegurar tiempos de carga rápidos. El Inspector de Elementos ofrece herramientas que permiten analizar y mejorar el rendimiento de tu página, desde el tiempo de carga de los recursos hasta la eficiencia en la ejecución del código. A continuación, se presentan las herramientas y técnicas disponibles para medir y mejorar el rendimiento de tu página web.",
+  "source": "@site/docs/⚡ Rendimiento/Herramientas de rendimiento.md",
+  "sourceDirName": "⚡ Rendimiento",
+  "slug": "/⚡ Rendimiento/Herramientas de rendimiento",
+  "permalink": "/docusaurus/docs/⚡ Rendimiento/Herramientas de rendimiento",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/⚡ Rendimiento/Herramientas de rendimiento.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Revisión de Imágenes y Scripts",
+    "permalink": "/docusaurus/docs/🌐 Análisis de Red/Revisión de imágenes y scripts"
+  },
+  "next": {
+    "title": "Optimización de Carga",
+    "permalink": "/docusaurus/docs/⚡ Rendimiento/Optimización de carga"
+  }
+}

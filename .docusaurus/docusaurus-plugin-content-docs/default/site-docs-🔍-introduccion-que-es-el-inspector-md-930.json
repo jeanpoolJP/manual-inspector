@@ -1,0 +1,20 @@
+{
+  "id": "🔍 Introducción/- Qué es el Inspector",
+  "title": "¿Qué es el Inspector de Elementos?",
+  "description": "El Inspector de Elementos es una herramienta integrada en los navegadores modernos que permite a desarrolladores, diseñadores y curiosos explorar, editar y depurar el contenido de una página web en tiempo real.",
+  "source": "@site/docs/🔍 Introducción/- Qué es el Inspector.md",
+  "sourceDirName": "🔍 Introducción",
+  "slug": "/🔍 Introducción/- Qué es el Inspector",
+  "permalink": "/docusaurus/docs/🔍 Introducción/- Qué es el Inspector",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/🔍 Introducción/- Qué es el Inspector.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Beneficios para Desarrolladores",
+    "permalink": "/docusaurus/docs/🔍 Introducción/- Beneficios para desarrolladores"
+  }
+}

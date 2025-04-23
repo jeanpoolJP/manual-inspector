@@ -1,0 +1,24 @@
+{
+  "id": "🖱️ Inspección de Elementos/Interacción con el DOM",
+  "title": "Interacción con el DOM",
+  "description": "El DOM (Document Object Model) es una representación estructural de los elementos HTML de una página web. El Inspector de Elementos te permite interactuar directamente con el DOM, lo que te ayuda a modificar, depurar y entender mejor la estructura de la página. Aquí te explicamos cómo puedes interactuar con el DOM usando el Inspector de Elementos.",
+  "source": "@site/docs/🖱️ Inspección de Elementos/Interacción con el DOM.md",
+  "sourceDirName": "🖱️ Inspección de Elementos",
+  "slug": "/🖱️ Inspección de Elementos/Interacción con el DOM",
+  "permalink": "/docusaurus/docs/🖱️ Inspección de Elementos/Interacción con el DOM",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/🖱️ Inspección de Elementos/Interacción con el DOM.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Modificación del HTML",
+    "permalink": "/docusaurus/docs/🖱️ Inspección de Elementos/Modificación del HTML"
+  },
+  "next": {
+    "title": "Ver y Editar Estilos",
+    "permalink": "/docusaurus/docs/🎨 Edición de CSS/Ver y editar estilos"
+  }
+}

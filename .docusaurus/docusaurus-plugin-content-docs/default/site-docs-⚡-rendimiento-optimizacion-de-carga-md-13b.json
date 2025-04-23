@@ -1,0 +1,24 @@
+{
+  "id": "⚡ Rendimiento/Optimización de carga",
+  "title": "Optimización de Carga",
+  "description": "La optimización de la carga de una página web es crucial para mejorar el rendimiento y la experiencia del usuario. Reducir los tiempos de carga puede incrementar la tasa de retención de usuarios y mejorar el posicionamiento en motores de búsqueda (SEO). El Inspector de Elementos ofrece varias herramientas que te permiten analizar cómo los recursos de tu página se cargan y encontrar áreas donde puedes mejorar el rendimiento.",
+  "source": "@site/docs/⚡ Rendimiento/Optimización de carga.md",
+  "sourceDirName": "⚡ Rendimiento",
+  "slug": "/⚡ Rendimiento/Optimización de carga",
+  "permalink": "/docusaurus/docs/⚡ Rendimiento/Optimización de carga",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/⚡ Rendimiento/Optimización de carga.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Herramientas de Rendimiento",
+    "permalink": "/docusaurus/docs/⚡ Rendimiento/Herramientas de rendimiento"
+  },
+  "next": {
+    "title": "Inspección de Cookies y Almacenamiento",
+    "permalink": "/docusaurus/docs/🧰 Herramientas Avanzadas/Inspección de cookies y almacenamiento"
+  }
+}

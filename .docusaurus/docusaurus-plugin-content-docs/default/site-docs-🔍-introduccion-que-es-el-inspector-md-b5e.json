@@ -1,0 +1,20 @@
+{
+  "id": "🔍 Introducción/Qué es el Inspector",
+  "title": "Qué es el Inspector",
+  "description": "",
+  "source": "@site/docs/🔍 Introducción/Qué es el Inspector.md",
+  "sourceDirName": "🔍 Introducción",
+  "slug": "/🔍 Introducción/Qué es el Inspector",
+  "permalink": "/docs/🔍 Introducción/Qué es el Inspector",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/🔍 Introducción/Qué es el Inspector.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  }
+}

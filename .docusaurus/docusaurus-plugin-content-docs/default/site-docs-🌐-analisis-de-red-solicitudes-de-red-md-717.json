@@ -1,0 +1,24 @@
+{
+  "id": "🌐 Análisis de Red/Solicitudes de red",
+  "title": "Solicitudes de Red",
+  "description": "En el contexto del desarrollo web, las solicitudes de red son fundamentales para la interacción entre el navegador y el servidor. Estas solicitudes permiten que tu página web recupere datos desde un servidor (por ejemplo, bases de datos o archivos) y envíe información de vuelta al servidor. La pestaña Network del Inspector de Elementos es una herramienta esencial para ver y analizar estas solicitudes.",
+  "source": "@site/docs/🌐 Análisis de Red/Solicitudes de red.md",
+  "sourceDirName": "🌐 Análisis de Red",
+  "slug": "/🌐 Análisis de Red/Solicitudes de red",
+  "permalink": "/docusaurus/docs/🌐 Análisis de Red/Solicitudes de red",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/🌐 Análisis de Red/Solicitudes de red.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Depuración con Breakpoints",
+    "permalink": "/docusaurus/docs/💻 Consola y Depuración/Depuración con breakpoints"
+  },
+  "next": {
+    "title": "Revisión de Imágenes y Scripts",
+    "permalink": "/docusaurus/docs/🌐 Análisis de Red/Revisión de imágenes y scripts"
+  }
+}

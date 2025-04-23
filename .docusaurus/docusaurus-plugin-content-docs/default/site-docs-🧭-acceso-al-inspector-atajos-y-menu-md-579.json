@@ -1,0 +1,24 @@
+{
+  "id": "🧭 Acceso-al-inspector/- Atajos y menú",
+  "title": "- Atajos y menú",
+  "description": "",
+  "source": "@site/docs/🧭 Acceso-al-inspector/- Atajos y menú.md",
+  "sourceDirName": "🧭 Acceso-al-inspector",
+  "slug": "/🧭 Acceso-al-inspector/- Atajos y menú",
+  "permalink": "/docs/🧭 Acceso-al-inspector/- Atajos y menú",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/🧭 Acceso-al-inspector/- Atajos y menú.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "- Qué es el Inspector",
+    "permalink": "/docs/🔍 Introducción/- Qué es el Inspector"
+  },
+  "next": {
+    "title": "- Métodos de acceso",
+    "permalink": "/docs/🧭 Acceso-al-inspector/- Métodos de acceso"
+  }
+}

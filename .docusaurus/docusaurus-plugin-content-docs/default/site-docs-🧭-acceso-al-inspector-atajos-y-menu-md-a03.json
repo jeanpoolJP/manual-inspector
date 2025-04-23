@@ -1,0 +1,24 @@
+{
+  "id": "🧭 Acceso al Inspector/- Atajos y menú",
+  "title": "Atajos y Menú",
+  "description": "El Inspector de Elementos ofrece diferentes formas de acceso y navegación que puedes aprovechar para trabajar de forma más rápida y eficiente. Aquí exploramos los principales atajos de teclado y cómo acceder al Inspector desde el menú del navegador.",
+  "source": "@site/docs/🧭 Acceso al Inspector/- Atajos y menú.md",
+  "sourceDirName": "🧭 Acceso al Inspector",
+  "slug": "/🧭 Acceso al Inspector/- Atajos y menú",
+  "permalink": "/docusaurus/docs/🧭 Acceso al Inspector/- Atajos y menú",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/🧭 Acceso al Inspector/- Atajos y menú.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Métodos de Acceso",
+    "permalink": "/docusaurus/docs/🧭 Acceso al Inspector/- Métodos de acceso"
+  },
+  "next": {
+    "title": "Secciones Principales: HTML, CSS, Console, Network",
+    "permalink": "/docusaurus/docs/🧱 Interfaz Básica/Secciones principales HTML CSS Console Network"
+  }
+}

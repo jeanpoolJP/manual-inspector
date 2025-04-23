@@ -1,0 +1,24 @@
+{
+  "id": "🧰 Herramientas Avanzadas/Inspección de cookies y almacenamiento",
+  "title": "Inspección de Cookies y Almacenamiento",
+  "description": "El Inspector de Elementos también proporciona herramientas poderosas para inspeccionar y gestionar las cookies y el almacenamiento de la web. Estas herramientas son útiles para analizar el comportamiento de la página en cuanto a la información que guarda en el navegador del usuario, ya sea para sesiones, preferencias o información persistente.",
+  "source": "@site/docs/🧰 Herramientas Avanzadas/Inspección de cookies y almacenamiento.md",
+  "sourceDirName": "🧰 Herramientas Avanzadas",
+  "slug": "/🧰 Herramientas Avanzadas/Inspección de cookies y almacenamiento",
+  "permalink": "/docusaurus/docs/🧰 Herramientas Avanzadas/Inspección de cookies y almacenamiento",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/🧰 Herramientas Avanzadas/Inspección de cookies y almacenamiento.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Optimización de Carga",
+    "permalink": "/docusaurus/docs/⚡ Rendimiento/Optimización de carga"
+  },
+  "next": {
+    "title": "Modificación de Datos Web",
+    "permalink": "/docusaurus/docs/🧰 Herramientas Avanzadas/Modificación de datos web"
+  }
+}

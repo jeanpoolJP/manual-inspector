@@ -1,0 +1,24 @@
+{
+  "id": "🔍 Introducción/- Beneficios para desarrolladores",
+  "title": "Beneficios para Desarrolladores",
+  "description": "El Inspector de Elementos es una herramienta poderosa que ofrece múltiples beneficios a desarrolladores web, diseñadores, testers y cualquier persona interesada en entender cómo funciona una página web. Aquí te mostramos sus principales ventajas:",
+  "source": "@site/docs/🔍 Introducción/- Beneficios para desarrolladores.md",
+  "sourceDirName": "🔍 Introducción",
+  "slug": "/🔍 Introducción/- Beneficios para desarrolladores",
+  "permalink": "/docusaurus/docs/🔍 Introducción/- Beneficios para desarrolladores",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/🔍 Introducción/- Beneficios para desarrolladores.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "¿Qué es el Inspector de Elementos?",
+    "permalink": "/docusaurus/docs/🔍 Introducción/- Qué es el Inspector"
+  },
+  "next": {
+    "title": "Métodos de Acceso",
+    "permalink": "/docusaurus/docs/🧭 Acceso al Inspector/- Métodos de acceso"
+  }
+}

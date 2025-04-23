@@ -1,0 +1,24 @@
+{
+  "id": "🎨 Edición de CSS/Ver y editar estilos",
+  "title": "Ver y Editar Estilos",
+  "description": "Una de las funcionalidades más útiles del Inspector de Elementos es la capacidad de ver y editar los estilos CSS de cualquier elemento en tiempo real. Esto te permite experimentar con el diseño de una página y solucionar problemas de estilos de manera rápida. A continuación, te mostramos cómo usar esta herramienta para modificar los estilos de los elementos.",
+  "source": "@site/docs/🎨 Edición de CSS/Ver y editar estilos.md",
+  "sourceDirName": "🎨 Edición de CSS",
+  "slug": "/🎨 Edición de CSS/Ver y editar estilos",
+  "permalink": "/docusaurus/docs/🎨 Edición de CSS/Ver y editar estilos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/🎨 Edición de CSS/Ver y editar estilos.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Interacción con el DOM",
+    "permalink": "/docusaurus/docs/🖱️ Inspección de Elementos/Interacción con el DOM"
+  },
+  "next": {
+    "title": "Modificar en Tiempo Real",
+    "permalink": "/docusaurus/docs/🎨 Edición de CSS/Modificar en tiempo real"
+  }
+}

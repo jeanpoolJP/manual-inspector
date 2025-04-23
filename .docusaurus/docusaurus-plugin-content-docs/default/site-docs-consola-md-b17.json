@@ -1,0 +1,22 @@
+{
+  "id": "consola",
+  "title": "La Consola",
+  "description": "La consola muestra mensajes, errores y advertencias del navegador.",
+  "source": "@site/docs/consola.md",
+  "sourceDirName": ".",
+  "slug": "/consola",
+  "permalink": "/docs/consola",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/consola.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "La Consola"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  }
+}

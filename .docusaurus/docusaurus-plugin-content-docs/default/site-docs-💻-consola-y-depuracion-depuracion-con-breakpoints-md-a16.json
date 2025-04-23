@@ -1,0 +1,24 @@
+{
+  "id": "💻 Consola y Depuración/Depuración con breakpoints",
+  "title": "Depuración con Breakpoints",
+  "description": "El uso de breakpoints (puntos de interrupción) es una técnica fundamental para la depuración de código JavaScript. Los breakpoints permiten pausar la ejecución del código en un punto específico y examinar el estado de las variables, el flujo de ejecución y la pila de llamadas. Esta técnica es especialmente útil cuando el código no se comporta como se espera, ya que te permite inspeccionar cada parte del proceso en detalle.",
+  "source": "@site/docs/💻 Consola y Depuración/Depuración con breakpoints.md",
+  "sourceDirName": "💻 Consola y Depuración",
+  "slug": "/💻 Consola y Depuración/Depuración con breakpoints",
+  "permalink": "/docusaurus/docs/💻 Consola y Depuración/Depuración con breakpoints",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/💻 Consola y Depuración/Depuración con breakpoints.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Errores y Mensajes de JavaScript",
+    "permalink": "/docusaurus/docs/💻 Consola y Depuración/Errores y mensajes de JavaScript"
+  },
+  "next": {
+    "title": "Solicitudes de Red",
+    "permalink": "/docusaurus/docs/🌐 Análisis de Red/Solicitudes de red"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "📚 Recursos Adicionales/Tutoriales y guías",
+  "title": "Tutoriales y Guías",
+  "description": "Esta sección proporciona una lista de tutoriales y guías recomendadas para mejorar tus habilidades con el Inspector de Elementos y el desarrollo web en general. Estas guías te ayudarán a profundizar en el uso de herramientas avanzadas y te permitirán obtener una comprensión más completa de cómo depurar y optimizar sitios web.",
+  "source": "@site/docs/📚 Recursos Adicionales/Tutoriales y guías.md",
+  "sourceDirName": "📚 Recursos Adicionales",
+  "slug": "/📚 Recursos Adicionales/Tutoriales y guías",
+  "permalink": "/docusaurus/docs/📚 Recursos Adicionales/Tutoriales y guías",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/📚 Recursos Adicionales/Tutoriales y guías.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Documentación de Navegadores",
+    "permalink": "/docusaurus/docs/📚 Recursos Adicionales/Documentación de navegadores"
+  }
+}

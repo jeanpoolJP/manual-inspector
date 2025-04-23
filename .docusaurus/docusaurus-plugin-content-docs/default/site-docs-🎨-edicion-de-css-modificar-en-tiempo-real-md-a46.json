@@ -1,0 +1,24 @@
+{
+  "id": "🎨 Edición de CSS/Modificar en tiempo real",
+  "title": "Modificar en Tiempo Real",
+  "description": "Una de las características más poderosas del Inspector de Elementos es la capacidad de modificar en tiempo real tanto el HTML como el CSS de una página web. Esta funcionalidad te permite experimentar, depurar y probar cambios de manera inmediata sin tener que recargar la página ni modificar los archivos originales. A continuación, te mostramos cómo realizar modificaciones en tiempo real.",
+  "source": "@site/docs/🎨 Edición de CSS/Modificar en tiempo real.md",
+  "sourceDirName": "🎨 Edición de CSS",
+  "slug": "/🎨 Edición de CSS/Modificar en tiempo real",
+  "permalink": "/docusaurus/docs/🎨 Edición de CSS/Modificar en tiempo real",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/🎨 Edición de CSS/Modificar en tiempo real.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ver y Editar Estilos",
+    "permalink": "/docusaurus/docs/🎨 Edición de CSS/Ver y editar estilos"
+  },
+  "next": {
+    "title": "Errores y Mensajes de JavaScript",
+    "permalink": "/docusaurus/docs/💻 Consola y Depuración/Errores y mensajes de JavaScript"
+  }
+}

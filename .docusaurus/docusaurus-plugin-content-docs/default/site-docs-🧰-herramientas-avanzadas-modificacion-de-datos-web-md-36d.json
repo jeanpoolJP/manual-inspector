@@ -1,0 +1,24 @@
+{
+  "id": "🧰 Herramientas Avanzadas/Modificación de datos web",
+  "title": "Modificación de Datos Web",
+  "description": "El Inspector de Elementos permite realizar modificaciones en los datos de una página web en tiempo real. Esto te brinda un control total sobre el contenido visible, lo que facilita la experimentación y la depuración sin necesidad de realizar cambios permanentes en el código fuente.",
+  "source": "@site/docs/🧰 Herramientas Avanzadas/Modificación de datos web.md",
+  "sourceDirName": "🧰 Herramientas Avanzadas",
+  "slug": "/🧰 Herramientas Avanzadas/Modificación de datos web",
+  "permalink": "/docusaurus/docs/🧰 Herramientas Avanzadas/Modificación de datos web",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/🧰 Herramientas Avanzadas/Modificación de datos web.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Inspección de Cookies y Almacenamiento",
+    "permalink": "/docusaurus/docs/🧰 Herramientas Avanzadas/Inspección de cookies y almacenamiento"
+  },
+  "next": {
+    "title": "Uso Eficiente del Inspector",
+    "permalink": "/docusaurus/docs/✅ Consejos y Buenas Prácticas/Uso eficiente del Inspector"
+  }
+}
